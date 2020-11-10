@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12b727d9-2393-4760-b98a-c4ef81176044" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.6/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1jAruZ38Hu07rUleKPTAcUhmkcc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/http" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/http" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/network" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestHttpHeaders_OnHttpRequestHeaders in ProxyWasmDemo">
+    <configuration name="go build ProxyWasmDemo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ProxyWasmDemo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="ProxyWasmDemo" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestHttpHeaders_OnHttpRequestHeaders in ProxyWasmDemo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ProxyWasmDemo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ProxyWasmDemo" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestHttpHeaders_OnHttpRequestHeaders\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestHttpHeaders_OnHttpResponseHeaders in ProxyWasmDemo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ProxyWasmDemo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ProxyWasmDemo" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestHttpHeaders_OnHttpResponseHeaders\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test ProxyWasmDemo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ProxyWasmDemo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ProxyWasmDemo" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestHttpHeaders_OnHttpRequestHeaders in ProxyWasmDemo" />
+        <item itemvalue="Go Build.go build ProxyWasmDemo" />
+        <item itemvalue="Go Test.go test ProxyWasmDemo" />
+        <item itemvalue="Go Test.TestHttpHeaders_OnHttpResponseHeaders in ProxyWasmDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="Makefile" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.cn,direct" />
+      </map>
+    </environment>
+    <proxy>https://goproxy.cn,direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="-603" key="#GOROOT" timestamp="1603970001623">
+      <screen x="-305" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="440" y="-603" key="#GOROOT/0.0.1280.800/-305.-1080.1920.1080@-305.-1080.1920.1080" timestamp="1603970001622" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1604043261688">
+      <screen x="-305" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1280.800/-305.-1080.1920.1080@-305.-1080.1920.1080" timestamp="1604043261688" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1604043261676">
+      <screen x="-305" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1280.800/-305.-1080.1920.1080@-305.-1080.1920.1080" timestamp="1604043261676" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1604043261669">
+      <screen x="-305" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1280.800/-305.-1080.1920.1080@-305.-1080.1920.1080" timestamp="1604043261669" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1604043261687">
+      <screen x="-305" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1280.800/-305.-1080.1920.1080@-305.-1080.1920.1080" timestamp="1604043261687" />
+    <state x="156" y="-901" key="SettingsEditor" timestamp="1603960918183">
+      <screen x="-305" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="156" y="-901" key="SettingsEditor/0.0.1280.800/-305.-1080.1920.1080@-305.-1080.1920.1080" timestamp="1603960918183" />
+  </component>
+</project>
